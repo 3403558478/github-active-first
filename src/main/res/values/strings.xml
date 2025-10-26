@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">VideoPlayerBT</string>
+    <string name="accessibility_service_description">用于执行手势操作的无障碍服务</string>
+    <string name="status_waiting">等待蓝牙操作...</string>
+    <string name="error_bluetooth_not_supported">设备不支持蓝牙</string>
+    <string name="error_accessibility_service">请先启用无障碍服务</string>
+</resources>
